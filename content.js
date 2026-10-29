@@ -6,7 +6,7 @@ window.HALLOWEEN_SITE = {
     "В полночь под шатром начнётся представление, которого не было в афишах.",
     "Приходите в этот вечер, чтобы увидеть невозможное и заглянуть за кулисы."
   ],
-  eventDetails: "31.10 в 19:00",
+  eventDetails: "31.10 в 18:00",
   tickets: [
     { guest: "Уважаемой Анастасии", pdf: "assets/tickets/ticket 01.pdf" },
     { guest: "Уважаемому Александру", pdf: "assets/tickets/ticket 02.pdf" },
