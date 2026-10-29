@@ -12,13 +12,12 @@ window.HALLOWEEN_SITE = {
     { guest: "Уважаемому Александру", pdf: "assets/tickets/ticket 02.pdf" },
     { guest: "Уважаемому Виктору", pdf: "assets/tickets/ticket 03.pdf" },
     { guest: "Уважаемой Елизавете", pdf: "assets/tickets/ticket 04.pdf" },
-    { guest: "Уважамому Матвею", pdf: "assets/tickets/ticket 05.pdf" },
+    { guest: "Уважаемому Матвею", pdf: "assets/tickets/ticket 05.pdf" },
     { guest: "Уважаемому Владимиру", pdf: "assets/tickets/ticket 06.pdf" },
-    { guest: "Уважамой Евгении", pdf: "assets/tickets/ticket 07.pdf" },
+    { guest: "Уважаемой Евгении", pdf: "assets/tickets/ticket 07.pdf" },
     { guest: "Уважаемому Даниилу", pdf: "assets/tickets/ticket 08.pdf" },
     { guest: "Уважаемой Екатерине", pdf: "assets/tickets/ticket 09.pdf" },
     { guest: "Уважаемой Анастасии", pdf: "assets/tickets/ticket 10.pdf" },
     { guest: "Уважаемой Вере", pdf: "assets/tickets/ticket 11.pdf" },
-    { guest: "Уважаемой Виктории", pdf: "assets/tickets/ticket 12.pdf" },
   ]
 };
